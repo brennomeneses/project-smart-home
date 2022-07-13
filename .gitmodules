@@ -1,0 +1,9 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/brennomeneses/project-smart-room-api.git
+[submodule "esp32"]
+	path = esp32
+	url = https://github.com/brennomeneses/project-smart-room-esp32.git
+[submodule "web"]
+	path = web
+	url = https://github.com/brennomeneses/project-smart-room-web.git
